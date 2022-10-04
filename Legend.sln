@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legend", "BinhNgu\Legend.csproj", "{C9A15645-03C5-4439-A753-C1ED1CD9E746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		123|Any CPU = 123|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		LegendV2|Any CPU = LegendV2|Any CPU
+		Lengend|Any CPU = Lengend|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.123|Any CPU.ActiveCfg = 123|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.123|Any CPU.Build.0 = 123|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.LegendV2|Any CPU.ActiveCfg = LegendV2|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.LegendV2|Any CPU.Build.0 = LegendV2|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Lengend|Any CPU.ActiveCfg = Lengend|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Lengend|Any CPU.Build.0 = Lengend|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A15645-03C5-4439-A753-C1ED1CD9E746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A47FA5-F4AD-4BA8-B4DE-652B7FA37187}
+	EndGlobalSection
+EndGlobal
